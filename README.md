@@ -1,7 +1,8 @@
-Team Members :
+MILESTONE 2 : Line Interactive
 
-Alfitra Fadjri      (1313620027)
+Membuat aplikasi dengan QTCreator untuk menggambar line.
 
-Fozan Bebe Moreno   (1313620041)
-
+Anggota kelompok :
 Zhafran Panggomgomi (1313620020)
+Alfitra Fadjri      (1313620027)
+Fozan Bebe Moreno   (1313620041)
